@@ -1,5 +1,7 @@
 Hello welcome to my Repo--
 
+Creating a Machine Learning project for predicting used car prices involves a systematic approach that includes several key steps, from data acquisition and cleaning to model training and evaluation. This project aims to develop a predictive model that can accurately estimate the price of a used car based on various features.
+
  1.Data Acquisition
 The first step in any Machine Learning project is to gather the data that will be used.
 For a used car price prediction model, this data might include features such as make and model of the 
